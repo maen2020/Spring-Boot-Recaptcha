@@ -9,5 +9,4 @@ public class SpringBootRecaptchaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRecaptchaApplication.class, args);
 	}
-
 }
